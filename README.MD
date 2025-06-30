@@ -45,13 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar-Ahm-ed&show_icons=true&theme=radical" alt="Omar's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Ahm-ed&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
